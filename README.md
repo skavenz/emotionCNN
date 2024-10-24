@@ -10,10 +10,10 @@ Issues to address: Using PyPlot's subplots, I have identified that the model has
 ![image](https://github.com/user-attachments/assets/6cd182f9-7de2-4cd0-91d7-d8ba4e29f1e7)
 
 LIBRARIES USED:
-os
-torch (Compute Platform 12.4)
-torchvision
-opencv-python
+os, 
+torch (Compute Platform 12.4), 
+torchvision, 
+opencv-python, 
 matplotlib
 
 
