@@ -6,3 +6,4 @@ OpenCV is used to feed in live video data as images, preprocessing them immediat
 Matplotlib's PyPlot is utilised to visualise the training accuracy and losses, as well as the testing accuracy and losses, ideal to see if the training is going well or needs tuning.
 
 Issues to address: Using PyPlot's subplots, I have identified that the model has overfitting issues as the validation accuracy tends to converge. The training loss constantly goes down consistently as the validation loss is not consistent, meaning the results are less general and are over-tailored towards the training dataset.
+![image](https://github.com/user-attachments/assets/6cd182f9-7de2-4cd0-91d7-d8ba4e29f1e7)
